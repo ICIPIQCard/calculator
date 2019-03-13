@@ -291,3 +291,4 @@ __pycache__/
 Generated Files/
 !/build/config/TRexDefs/**
 !src/CalculatorUnitTests/CalculatorUnitTests_TemporaryKey.pfx
+/docs/txt.txt
